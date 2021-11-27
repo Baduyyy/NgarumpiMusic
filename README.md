@@ -19,10 +19,6 @@
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py)
 
-### 🔖 History
-
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/levina-lab/VeezMusic)
-
 ## Features 📓
 
 - Thumbnail Support
@@ -40,6 +36,7 @@
 - Statistic Collector
 - Group Tools (ban/unban/mute/unmute)
 - Block / Unblock (restrict user for using your bot)
+- Video play (play to video)
 
 ## Commands 📚
 
@@ -50,6 +47,7 @@
 - `/vsong <song name>` - download videos you want quickly
 - `/lyric <song name>` - lyrics scrapper
 - `/vk <song name>` - generate song without download
+- '/vplay <video name>' - play video you requested
 
 #### Admins Only 👷‍♂️
 - `/player` - open music player settings panel
