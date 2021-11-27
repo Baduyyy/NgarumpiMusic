@@ -1,4 +1,4 @@
-<h2 align="centre">🎼 BAROX MUSIC BOT</h2>
+<h2 align="centre">🎼 NGARUMPI MUSIC </h2>
 
 ### Ngarumpi Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
@@ -19,7 +19,7 @@
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py)
 
-### 🎖 History
+### 🔖 History
 
 [![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/levina-lab/VeezMusic)
 
@@ -74,7 +74,7 @@
 - `/userbotleaveall` - order the assistant to leave all groups
 - `/gcast` - send a broadcast message from the assistant
 
-### Owner Only 🕵️
+### Owner Only 🛡️
 - `/broadcast` - send a broadcast message from the bot
 - `/block` - block people for using your bot
 - `/unblock` - unblock people you blocked for using your bot
@@ -89,12 +89,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Xbaroxx/XbaroxMusic)
-
-ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Xbaroxx/XbaroxMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,BG_IMAGE,GROUP_SUPPORT,ASSISTANT_NAME,OWNER_NAME,OWNER_ID,DATABASE_URL,LOG_CHANNEL,UPDATES_CHANNEL,API_ID,API_HASH,PMPERMIT,SUDO_USERS,DURATION_LIMIT)
-
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Baduyyy/NgarumpiMusic)
 
 ## VPS Deployment 📡
 
@@ -105,7 +100,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/levina-lab/VeezMusic # Clone your repo.
+git clone https://github.com/Baduyyy/NgarumpiMusic # Clone your repo.
 cd VeezMusic
 pip3 install -U -r requirements.txt
 cp example.env .env #Use vim to edit ENVs
@@ -113,13 +108,12 @@ vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit th
 python3 main.py # Run the bot
 ```
 
-### Special Credits 💖
-- [Xbarox](https://github.com/Xbaroxx): Dev
+### Special Credits ✨
+- [Baduy](https://github.com/Baduyyy): Dev
 - [Levina](https://github.com/levina-lab): Dev
-- [Xbarox Music Bot](https://t.me/RogerexRobot) Our Music Bot
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
 - [TeamDaisyX](https://github.com/TeamDaisyX) for base code
 
-### Support & Updates 🎑
-<a href="https://t.me/RogerSupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/RogerexSupportt"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/Update"><img src="https://img.shields.io/badge/Join-Group%20Mutualan-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/RogerUpdate"><img src="https://img.shields.io/badge/Join%20Channel Quets-blue.svg?style=for-the-badge&logo=Telegram"></a>
+### Support & Updates ⚙️
+<a href="https://t.me/"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/"><img src="https://img.shields.io/badge/Join-Group%20Mutualan-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/"><img src="https://img.shields.io/badge/Join%20Channel Quets-blue.svg?style=for-the-badge&logo=Telegram"></a>
