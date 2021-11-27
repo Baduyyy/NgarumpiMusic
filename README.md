@@ -1,8 +1,8 @@
 <h2 align="centre">🎼 BAROX MUSIC BOT</h2>
 
-### Barox Music is a telegram bot project that's allow you to play music on telegram voice chat group.
+### Ngarumpi Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
-<p align="center"><a href="https://t.me/RogerexRobot"><img src="https://telegra.ph/file/d88e4d58ed589ece3b42f.jpg" width="300"></a></p>
+<p align="center"><img src="https://telegra.ph/file/390e6213855413c14b618.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 </p>
